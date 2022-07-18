@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PersonalCard/static/css/main.34cd8ef5.css",
+    "main.js": "/PersonalCard/static/js/main.a546b58b.js",
+    "static/js/787.4b846e2a.chunk.js": "/PersonalCard/static/js/787.4b846e2a.chunk.js",
+    "static/media/profile.jpeg": "/PersonalCard/static/media/profile.a2bee718e7e6ab356fef.jpeg",
+    "index.html": "/PersonalCard/index.html",
+    "main.34cd8ef5.css.map": "/PersonalCard/static/css/main.34cd8ef5.css.map",
+    "main.a546b58b.js.map": "/PersonalCard/static/js/main.a546b58b.js.map",
+    "787.4b846e2a.chunk.js.map": "/PersonalCard/static/js/787.4b846e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34cd8ef5.css",
+    "static/js/main.a546b58b.js"
+  ]
+}
