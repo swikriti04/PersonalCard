@@ -1,0 +1,119 @@
+
+.divChild {
+    border-radius: 40px;
+    align-items: center;
+    align-content: center;
+    margin: auto; 
+    height: 130.9vh;
+    width: 30vw;
+    background-color: rgb(26, 27, 33);
+    padding: 20px;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+
+.profile {
+    margin: auto;
+    border-radius: 30px;
+    margin-top: 4vh;
+    width: 22vw;
+    height: 48vh;
+    margin-top: "10%";
+}
+
+.H1 {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+.fDev {
+    color: rgb(243, 191, 153);
+    margin-top: -4%;
+    font-size: 110%;
+}
+
+.website {
+    color: white;
+    font-size: small;
+    margin-top: -3%;
+}
+
+.but {
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+
+.email {
+    margin-right: 28px;
+    width:9vw;
+    height: 6vh;
+    border-radius: 10px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.linkedin {
+    width: 9vw;
+    height: 6vh;
+    border-radius: 10px;
+    font-size: medium;
+    background-color: rgb(80, 147, 226);
+    font-weight: bold;
+}
+
+.eIcon {
+    width: 2%;
+    height: 2%;
+    size: 10px;
+}
+
+.hAbout {
+    color: white;
+    margin-top: 35px;
+    margin-left: -235px;
+    font-size: 22px;
+}
+
+.about {
+    color: white;
+    text-align: left;
+    align-content: start;
+    align-items: flex-start;
+    font-stretch: normal;
+    margin-left: 80px;
+    margin-right: 60px;
+    margin-top: -15px;
+}
+
+.hInterest {
+    color: white;
+    margin-top: 35px;
+    margin-left: -217px;
+    font-size: 22px;
+}
+
+.interest {
+    color: white;
+    text-align: left;
+    align-content: start;
+    align-items: flex-start;
+    font-stretch: normal;
+    margin-left: 78px;
+    margin-right: 60px;
+    margin-top: -15px;
+}
+
+.footer {
+
+    color: rgb(255, 153, 0);
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    background-color: rgb(22, 22, 25);
+    height: 11vh;
+    width: 32.64vw;
+    margin-left: -20px;
+    margin-bottom: -80px;
+    margin-bottom: 0%;
+    margin-top: 50px;
+}
